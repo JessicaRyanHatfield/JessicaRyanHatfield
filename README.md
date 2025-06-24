@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Jessica Ryan. 👋
 
-<!--
-**JessicaRyanHatfield/JessicaRyanHatfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙂 **Welcome to my page!**  
 
-Here are some ideas to get you started:
+⭐ **Currently, I'm working towards a career as a Cybersecurity Analyst** 
+- *Why?*
+  - I love applying knowledge in real world situations that can help protect people and organization's data, finances and reputations from threat actors. The challenges presented by the cybersecurity field keep work fun and interesting. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Right now, I'm studying for a couple certifications:**  
+&nbsp;&nbsp;&nbsp;&nbsp;⬜ **Tenable's Vulnerability Management Specialist**  
+&nbsp;&nbsp;&nbsp;&nbsp;⬜ **Burp Suite Certified Practitioner**
+
+🏆 **Recently, I've earned a couple certifications:**  
+&nbsp;&nbsp;&nbsp;&nbsp;✅ **AWS Certified Cloud Practitioner**  
+&nbsp;&nbsp;&nbsp;&nbsp;✅ **Google Cybersecurity**  
+
+☁️ **What I want:**
+- CompTIA Security+
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- CISSP
+- CEH
+
+🧠 **What I know:**
+- Programming Languages: Python, SQL and Java 
+- Linux Command Line
+- Basics of Network Security
+- NIST CSF and CIA Triad
+- OWASP TOP 10
+
+✨ **Skills I bring to the table:**
+- Collaborative
+- Growth Mindset
+- Strong Communication Skills
+- Detail-Oriented
+- Creative Problem Solving
+
+
+Want know more? Please visit my [Linkedin](www.linkedin.com/in/jessicaryanart).
+
