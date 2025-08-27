@@ -9,6 +9,7 @@
 
 📚 **Right now, I'm studying for a couple certifications:**  
 ---
+&nbsp;&nbsp;&nbsp;&nbsp;⬜ **Splunk Core Certified User**
 &nbsp;&nbsp;&nbsp;&nbsp;⬜ **Tenable's Vulnerability Management Specialist**  
 &nbsp;&nbsp;&nbsp;&nbsp;⬜ **Burp Suite Certified Practitioner**
 
